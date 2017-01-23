@@ -8,8 +8,11 @@ This is the code for a challenge introduced on [this](https://youtu.be/p69khggr1
 ##Dependencies
 
 numpy
+
 matplotlib
+
 random
+
 scipy.io to import .mat file of data
 
 ##Usage
