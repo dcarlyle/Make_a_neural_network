@@ -19,8 +19,4 @@ scipy.io to import .mat file of data
 
 Run the jupyter notebook ``Handwritten Numbers in python.ipynb``.
 
-##Credits
-
-The credits for this code go to [Milo Harper](https://github.com/miloharper). I've merely created a wrapper to get people started.
-
 
