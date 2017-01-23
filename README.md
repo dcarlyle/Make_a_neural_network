@@ -17,6 +17,6 @@ scipy.io to import .mat file of data
 
 ##Usage
 
-Run the jupyter notebook ``Handwritten Numbers in python.ipynb``.
+Run the jupyter notebook ``Handwritten Numbers in python.ipynb`` with python 3.
 
 
