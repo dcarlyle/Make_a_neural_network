@@ -15,8 +15,14 @@ random
 
 scipy.io to import .mat file of data
 
+and some other libraries for visualisations
+
 ##Usage
 
 Run the jupyter notebook ``Handwritten Numbers in python.ipynb`` with python 3.
 
+## Result
+20 random samples are shown here. Hand-written numbers are on the left side and the predictions are printed on the right side. You can get the same result by running [this jupyter notebook](https://github.com/yosoufe/Make_a_neural_network/blob/master/Handwritten%20Numbers%20in%20python.ipynb).
 
+
+![alt text](anim.gif "Sample Output")
